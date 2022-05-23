@@ -1,0 +1,10 @@
+aiofiles==0.6.0
+aiogram==2.12
+aiohttp==3.8.1
+aiosignal==1.2.0
+async-lru==1.0.3
+async-timeout==4.0.2
+environs~=8.0.0
+time
+datetime
+mysql-connector-python
